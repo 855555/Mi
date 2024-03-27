@@ -1,6 +1,6 @@
 // 主标题，副标题
 const title = ["玩米", "wanmi.org"]
-const pageTip = "<div style='text-align: center'>Email：ai@wanmi.org。</div>"
+const pageTip = "<div style='text-align: center'>Email：ai@wanmi.org</div>"
 const hotModels = ['dde.net', 'mail.sarl', 'mail.wiki', 'mailbox.cc'];
 // 绿色：#92D050， 黄色：#E6A23C， 蓝色：#0071e3
 const Data = [
